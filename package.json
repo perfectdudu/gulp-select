@@ -1,6 +1,6 @@
 {
   "name": "perfectdudu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "select and replace https string",
   "main": "select gulp-select perfect",
   "scripts": {
