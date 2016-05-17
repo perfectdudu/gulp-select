@@ -1,6 +1,6 @@
 {
   "name": "gulp-select",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "select and replace https string",
   "main": "select gulp-select perfect",
   "scripts": {
@@ -29,5 +29,14 @@
     "preprocess": "^3.0.2",
     "through2": "^2.0.1",
     "vinyl-sourcemaps-apply": "^0.2.1"
+  },
+  "dependencies": {
+    "gulp-postcss": "^6.1.0",
+    "gulp-tag-include": "^1.0.9",
+    "gulp-html-inline": "^0.0.8",
+    "gulp-util": "^3.0.7",
+    "preprocess": "^3.0.2",
+    "vinyl-sourcemaps-apply": "^0.2.1",
+    "through2": "^2.0.1"
   }
 }
